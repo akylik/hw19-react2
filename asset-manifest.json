@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/hw19-react2/static/css/main.0adf737d.chunk.css",
+    "main.js": "/hw19-react2/static/js/main.57677ea2.chunk.js",
+    "main.js.map": "/hw19-react2/static/js/main.57677ea2.chunk.js.map",
+    "runtime-main.js": "/hw19-react2/static/js/runtime-main.51a5d6fc.js",
+    "runtime-main.js.map": "/hw19-react2/static/js/runtime-main.51a5d6fc.js.map",
+    "static/js/2.756b8a31.chunk.js": "/hw19-react2/static/js/2.756b8a31.chunk.js",
+    "static/js/2.756b8a31.chunk.js.map": "/hw19-react2/static/js/2.756b8a31.chunk.js.map",
+    "index.html": "/hw19-react2/index.html",
+    "static/css/main.0adf737d.chunk.css.map": "/hw19-react2/static/css/main.0adf737d.chunk.css.map",
+    "static/js/2.756b8a31.chunk.js.LICENSE.txt": "/hw19-react2/static/js/2.756b8a31.chunk.js.LICENSE.txt",
+    "static/media/padlock.bb04c762.svg": "/hw19-react2/static/media/padlock.bb04c762.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51a5d6fc.js",
+    "static/js/2.756b8a31.chunk.js",
+    "static/css/main.0adf737d.chunk.css",
+    "static/js/main.57677ea2.chunk.js"
+  ]
+}
