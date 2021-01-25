@@ -146,19 +146,6 @@ export default class Signin extends Component {
               data={this.state.passClr}
             ></InputBox>
 
-            <DivStyle>
-              <CheckBox
-                type="checkbox"
-                name="check"
-                checked={this.state.checkBox}
-                onChange={this.changeCheckBox}
-              ></CheckBox>
-              <Label for="check">
-                I want to receive inspiration, marketing promotions and updates
-                via email.
-              </Label>
-            </DivStyle>
-
             <PStyle></PStyle>
             <ButtonStyle onClick={this.changeSignup}>SIGN UP</ButtonStyle>
             <DivRightStyle>

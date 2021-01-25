@@ -131,14 +131,6 @@ export default class Signin extends Component {
             <PStyle></PStyle>
             <ButtonStyle onClick={this.changeSignin}>SIGN IN</ButtonStyle>
 
-            <DivStyle>
-              <AStyle href="/hw19-react/reset">
-                Forgot password?
-              </AStyle>
-              <AStyle href="/hw19-react/signup">
-                Don't have an account? Sign up
-              </AStyle>
-            </DivStyle>
             <PStyle></PStyle>
             <PStyle></PStyle>
             <PStyle>Copyright © Your Website 2021</PStyle>

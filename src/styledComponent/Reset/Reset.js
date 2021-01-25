@@ -68,14 +68,7 @@ export default class Reset extends Component {
               RESET PASSWORD
             </ButtonStyle>
 
-            <DivStyle>
-              <AStyle href="/hw19-react/signin">
-                Already have an account? <br/>Sign in
-              </AStyle>
-              <AStyle href="/hw19-react/signup">
-                Dont't have an account? <br/>Sign up
-              </AStyle>
-            </DivStyle>
+
 
             <PStyle></PStyle>
             <PStyle></PStyle>
